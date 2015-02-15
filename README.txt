@@ -1,3 +1,5 @@
+TAKES A WHILE TO LOAD.
+
 Adjust independent variable to Time from the dropdown button on along the x-axis.
 Adjust dependent variable to Gross from the dropdown button on the y-axis.
 Select play to watch data change over time.
